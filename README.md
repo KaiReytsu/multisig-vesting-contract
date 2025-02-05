@@ -152,4 +152,4 @@ After deploying the contract to a network:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is unlicensed. All rights reserved.
