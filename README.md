@@ -150,6 +150,3 @@ After deploying the contract to a network:
 3. Connect your wallet (MetaMask or other).
 4. Use the interface to call the contract functions.
 
-## License
-
-This project is unlicensed. All rights reserved.
